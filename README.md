@@ -36,7 +36,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/egonzalezt/Discordbot" title="Discordbot"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=egonzalezt&repo=Discordbot&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/egonzalezt/Lapis-DotNet" title="Discordbot"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=egonzalezt&repo=Discordbot&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/egonzalezt/Minecraft-App" title="Minecraft-App"><img align="right" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=egonzalezt&repo=Minecraft-App&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
